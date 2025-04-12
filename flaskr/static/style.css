@@ -1,20 +1,23 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
 
 html {
+    text-align: center;
     margin: 25px;
     background-color: lightblue;
     font-family: verdana;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 h3 {
+    text-align: center;
     margin-top: 20px;
     background-color: lightblue;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bolder;
 }
 
 p {
+    text-align: center;
     margin-top: 10px;
     margin-left: 15px;
     background-color: lightblue;
